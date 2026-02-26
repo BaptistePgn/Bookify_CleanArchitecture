@@ -5,4 +5,8 @@
     <File Path="LICENSE.txt" />
     <File Path="README.md" />
   </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/Bookify.Domain/Bookify.Domain.csproj" Id="1a1d6a33-99f5-499e-9492-a4355b853497" />
+  </Folder>
+  <Folder Name="/test/" />
 </Solution>
