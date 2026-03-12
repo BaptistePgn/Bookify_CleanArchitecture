@@ -10,6 +10,6 @@ public enum Amenity
     Gym = 6,
     Spa = 7,
     Terrace = 8,
-    MoutainView = 9,
-    GardenVie = 10
+    MountainView = 9,
+    GardenView = 10
 }
